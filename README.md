@@ -137,9 +137,9 @@ README Enhancement Guidelines:
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <em>"Kill the boy. Let the man rise."</em><br />
+  — <strong>Yukessh</strong>
 </p>
-
 <!--
 Tips:
 - Update badge links and usernames as required.
