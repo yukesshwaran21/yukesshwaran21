@@ -89,7 +89,7 @@ README Enhancement Guidelines:
 
 <!-- Pin your best repositories here using shields or markdown links -->
 <p align="left">
-  <p align="center">
+  
   <p align="center">
   <a href="https://github.com/yukesshwaran21/EaseBilling.git">
     <img src="https://bairesdev.mo.cloudinary.net/blog/2023/08/Automated-Billing-Software.jpg?tx=w_1920,q_auto" width="250" style="margin: 10px;" />
