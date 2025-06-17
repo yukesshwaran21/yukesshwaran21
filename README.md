@@ -56,7 +56,7 @@ README Enhancement Guidelines:
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,python,cpp,mongodb,mysql,firebase,vercel,tailwind,sass,figma,linux,git,vscode,postman" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,mongodb,mysql,vercel,tailwind,git,vscode" alt="My Skills" />
 </p>
 
 <details>
@@ -64,10 +64,10 @@ README Enhancement Guidelines:
 
   - **Languages:** JavaScript, TypeScript, Java, Python, C++
   - **Frameworks:** React.js, Next.js, Node.js, Express
-  - **Databases:** MongoDB, MySQL, Firebase
-  - **Styling:** Tailwind CSS, Sass, Framer Motion, GSAP
-  - **Tools:** Git, Postman, Figma, VS Code, Linux
-  - **Cloud/Hosting:** Vercel, Firebase
+  - **Databases:** MongoDB, MySQL
+  - **Styling:** Tailwind CSS, Sass, Framer Motion
+  - **Tools:** Git, VS Code
+  - **Cloud/Hosting:** Vercel, Render
 </details>
 
 ---
@@ -82,6 +82,12 @@ README Enhancement Guidelines:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yukesshwaran21&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
 </p>
+
+---
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20" /> LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/yukesshwaran?theme=dark&font=Source%20Sans%203)
 
 ---
 
