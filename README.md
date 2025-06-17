@@ -90,7 +90,7 @@ README Enhancement Guidelines:
 <!-- Pin your best repositories here using shields or markdown links -->
 <p align="left">
   <a href="https://github.com/yukesshwaran21/EaseBilling.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yukesshwaran21&repo=ai-railway-tracker&theme=tokyonight" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bairesdev.com%2Fblog%2Fautomated-billing-software%2F&psig=AOvVaw2XaId1MznJ9BEaPqDpxdvU&ust=1750241654382000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCND_ps6c-I0DFQAAAAAdAAAAABAE" />
   </a>
   <a href="https://github.com/yukesshwaran21/threejs-3d-experiments">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yukesshwaran21&repo=threejs-3d-experiments&theme=tokyonight" />
