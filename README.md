@@ -59,10 +59,10 @@ README Enhancement Guidelines:
 <details>
   <summary>🛠️ More About My Toolkit</summary>
 
-  - **Languages:** JavaScript, TypeScript, Java, Python, C++
+  - **Languages:** JavaScript, Java, Python, C
   - **Frameworks:** React.js, Next.js, Node.js, Express
   - **Databases:** MongoDB, MySQL
-  - **Styling:** Tailwind CSS, Sass, Framer Motion
+  - **Styling:** Tailwind CSS, Framer Motion
   - **Tools:** Git, VS Code
   - **Cloud/Hosting:** Vercel, Render
 </details>
