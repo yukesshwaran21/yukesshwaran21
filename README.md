@@ -33,9 +33,6 @@ README Enhancement Guidelines:
   <a href="https://www.linkedin.com/in/yukesshwaran" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/Yukessh_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
 </p>
 
 ---
