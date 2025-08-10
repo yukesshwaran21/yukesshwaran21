@@ -17,7 +17,7 @@ README Enhancement Guidelines:
 <h1 align="center">Hi there, I'm Yukessh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Creative+Engineer;Open+Source+Contributor;Problem+Solver;Always+Learning&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Creative+Engineer;Frontend+Developer;Problem+Solver;Always+Learning&center=true&width=500&height=40" />
 </p>
 
 <p align="center">
