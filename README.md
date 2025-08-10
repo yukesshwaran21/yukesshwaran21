@@ -94,17 +94,17 @@ README Enhancement Guidelines:
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://github.com/yukesshwaran21/Food_delivery_website.git">
+        <img src=""C:\Users\HP\Pictures\Screenshots\Screenshot 2025-08-10 210811.png"" width="250" />
+        <br />
+        <strong>Food Delivery Website</strong>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/yukesshwaran21/EaseBilling.git">
         <img src="https://bairesdev.mo.cloudinary.net/blog/2023/08/Automated-Billing-Software.jpg?tx=w_1920,q_auto" width="250" />
         <br />
         <strong>Ease Billing System</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/yukesshwaran21/Food_delivery_website.git">
-        <img src="https://wrapmarketusercontent.com/assets/items/thumb/8ea1a870b2c2998368606406c43b717a5f71f75db7df31211b6602024ae15644.webp?v=1710580878" width="250" />
-        <br />
-        <strong>Food Delivery Website</strong>
       </a>
     </td>
     <td align="center">
