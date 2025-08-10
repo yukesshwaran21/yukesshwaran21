@@ -95,7 +95,7 @@ README Enhancement Guidelines:
   <tr>
     <td align="center">
       <a href="https://github.com/yukesshwaran21/Food_delivery_website.git">
-<img width="1916" height="910" alt="Image" src="https://github.com/user-attachments/assets/329a9075-550b-44d2-87a5-9e695db918b8" />-        <br />
+<img width="250" alt="Image" src="https://github.com/user-attachments/assets/329a9075-550b-44d2-87a5-9e695db918b8" />-        <br />
         <strong>Food Delivery Website</strong>
       </a>
     </td>
