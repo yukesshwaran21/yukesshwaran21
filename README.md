@@ -168,6 +168,8 @@ Collaborations • Learning Opportunities • Beginner-friendly Contributions
   <em>"Kill the boy. Let the man rise."</em><br />
   — <strong>Yukessh</strong>
 </p>
+
+<p align=center><img src="https://wakatime.com/share/@Avinal/a70f5eaa-2098-4e5b-b557-240cf1e78033.svg" /></p>
 <!--
 Tips:
 - Update badge links and usernames as required.
