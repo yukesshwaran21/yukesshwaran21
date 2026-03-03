@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Hey%20there%20👋,%20I'm%20Yukesshwaran&fontSize=32&fontAlignY=75&color=gradient&customColorList=0,2,3&animation=fadeIn" alt="Hey there 👋, I'm Yukesshwaran" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&text=Hey%20there%20👋,%20I'm%20Yukesshwaran&fontSize=32&fontAlignY=75&color=4169E1&animation=fadeIn" alt="Hey there 👋, I'm Yukesshwaran" />
 
 <hr></hr>
 
