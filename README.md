@@ -37,29 +37,43 @@ README Enhancement Guidelines:
 
 ---
 
-## 🧠 About Me  
+## 🧠 About Me
 
-<div align="center">
+### 👨‍💻 Yukessh  
+B.Tech Information Technology Student  
 
-🎓 **B.Tech Information Technology Student**  
-Building strong foundations in programming and software development.  
+---
 
-💻 Passionate about writing clean code and strengthening core concepts in  
-**Java • JavaScript • OOP • Data Structures • Web Development**  
+I’m building strong foundations in programming and software development,  
+with a clear focus on writing clean, scalable, and efficient code.
 
-🚀 Exploring **Full Stack Development** and **AI-driven projects**  
-while sharpening problem-solving skills for placements.  
+---
 
-📚 Currently focused on mastering **Advanced JavaScript**  
-and improving frontend performance & backend logic.  
+### 🚀 What I’m Working On
+- Strengthening **Java & OOP fundamentals**
+- Practicing **Data Structures for placements**
+- Improving **Advanced JavaScript & modern web concepts**
+- Building real-world **Full Stack mini-projects**
 
-🔍 Working on real-world mini projects to bridge  
-the gap between theory and practical implementation.  
+---
 
-🤝 Open to collaborations, learning opportunities,  
-and meaningful beginner-friendly contributions.  
+### 🎯 Career Direction
+Full Stack Development • AI-based Applications • System Design Basics
 
-🌱 Growing consistently — one concept, one project at a time.
+---
+
+### 📈 Growth Mindset
+I believe in consistent daily improvement —  
+turning concepts into practical implementations and projects.
+
+---
+
+### 🤝 Open To
+Collaborations • Learning Opportunities • Beginner-friendly Contributions
+
+---
+
+> ⚡ Focused on mastering fundamentals today to build powerful systems tomorrow.
 
 </div>
 
