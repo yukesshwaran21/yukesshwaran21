@@ -39,17 +39,29 @@ README Enhancement Guidelines:
 
 ## 🧠 About Me  
 
-🎓 B.Tech Information Technology student building strong foundations in programming and system design.  
+<div align="center">
 
-💻  Currently learning and practicing **Java, JavaScript, OOP, Data Structures & Web Development**.  
+🎓 **B.Tech Information Technology Student**  
+Building strong foundations in programming and software development.  
 
-🚀 Interested in **Full Stack Development, AI-driven projects, and placement-focused problem solving.**  
+💻 Passionate about writing clean code and strengthening core concepts in  
+**Java • JavaScript • OOP • Data Structures • Web Development**  
 
-📚 Actively improving in **Advanced JavaScript & modern frontend development.**  
+🚀 Exploring **Full Stack Development** and **AI-driven projects**  
+while sharpening problem-solving skills for placements.  
 
-🤝 Open to learning opportunities, collaborations, and beginner-friendly project contributions.  
+📚 Currently focused on mastering **Advanced JavaScript**  
+and improving frontend performance & backend logic.  
 
-📬 Always ready to grow, improve, and build meaningful tech solutions.
+🔍 Working on real-world mini projects to bridge  
+the gap between theory and practical implementation.  
+
+🤝 Open to collaborations, learning opportunities,  
+and meaningful beginner-friendly contributions.  
+
+🌱 Growing consistently — one concept, one project at a time.
+
+</div>
 
 ---
 
