@@ -36,17 +36,21 @@ README Enhancement Guidelines:
 </p>
 
 ---
+🧠 About Me
 
-### 🧠 About Me
+🎓 B.Tech Information Technology student, building strong fundamentals in programming and software development.
 
-- 🎓 Engineering professional with a passion for web development, system design, and problem-solving.  
-- 💻 I craft creative, scalable, and performance-driven applications — from interactive frontends to robust full-stack projects.  
-- 🔭 **Currently working on:**  
-  &nbsp;&nbsp;&nbsp;&nbsp;• AI-integrated railway tracking system  
-  &nbsp;&nbsp;&nbsp;&nbsp;• 3D web experiments with [Three.js](https://threejs.org/)  
-- 🌱 **Learning:** Advanced JavaScript, React Native, Backend Optimization  
-- 🤝 **Open to:** Collaboration, mentorship, and innovative project ideas!  
-- 📬 **Let’s connect and collaborate on cool tech!**
+💻 Currently learning and practicing Java, JavaScript, OOP concepts, Data Structures, and Web Development.
+
+🚀 Interested in Full Stack Development, AI-based projects, and problem-solving for placements.
+
+📚 Actively improving my skills in Advanced JavaScript and modern web technologies.
+
+🔍 Exploring real-world projects to strengthen both frontend and backend understanding.
+
+🤝 Open to learning opportunities, collaborations, and beginner-friendly project contributions.
+
+📬 Always ready to grow, improve, and build meaningful tech solutions.
 
 ---
 
