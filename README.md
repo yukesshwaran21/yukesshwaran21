@@ -37,45 +37,16 @@ README Enhancement Guidelines:
 
 ---
 
-## 🧠 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-### 👨‍💻 Yukessh  
-B.Tech Information Technology Student  
+<img width="30%" align="right" src="https://github.com/user-attachments/assets/46bfd91c-3b53-4429-abb4-0165a03b693c" alt="coding-animation" />
 
----
-
-I’m building strong foundations in programming and software development,  
-with a clear focus on writing clean, scalable, and efficient code.
-
----
-
-### 🚀 What I’m Working On
-- Strengthening **Java & OOP fundamentals**
-- Practicing **Data Structures for placements**
-- Improving **Advanced JavaScript & modern web concepts**
-- Building real-world **Full Stack mini-projects**
-
----
-
-### 🎯 Career Direction
-Full Stack Development • AI-based Applications • System Design Basics
-
----
-
-### 📈 Growth Mindset
-I believe in consistent daily improvement —  
-turning concepts into practical implementations and projects.
-
----
-
-### 🤝 Open To
-Collaborations • Learning Opportunities • Beginner-friendly Contributions
-
----
-
-> ⚡ Focused on mastering fundamentals today to build powerful systems tomorrow.
-
-</div>
+- 👨‍💻 Visit [My Portfolio Site](https://vineet-portfolio-site.vercel.app) for more details about me.
+- 📫 How to reach me **vineethero02@gmail.com**
+- 💬 Ask me about **Anything**
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- ❤️ I Love writing code and learning new tools
+- ⚡ Fun fact **I think I'm funny 😅**
 
 ---
 
@@ -169,7 +140,6 @@ Collaborations • Learning Opportunities • Beginner-friendly Contributions
   — <strong>Yukessh</strong>
 </p>
 
-<p align=center><img src="https://wakatime.com/share/@Avinal/a70f5eaa-2098-4e5b-b557-240cf1e78033.svg" /></p>
 <!--
 Tips:
 - Update badge links and usernames as required.
