@@ -1,20 +1,4 @@
-<!--
-README Enhancement Guidelines:
-- Use clear structure with sections and visual hierarchy.
-- Add badges for profile views, followers, top skills, and recent activity.
-- Make use of shields.io and GitHub profile widgets.
-- Include animated or graphical elements but keep it professional.
-- List key skills/tools in an organized and visually appealing way.
-- Add contact/social links with icons.
-- Include a "Pinned Projects" or "Featured Projects" section if possible.
-- Keep content concise but informative.
-- Use proper Markdown formatting and HTML for alignment/decoration.
-- Make all image and badge links active and correct.
-- Add a visitor counter badge.
-- Provide a "Let's Connect" section.
--->
-
-<h1 align="center">Hi there, I'm Yukessh 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=HelloWorld%20👋,%20I'm%20Vineet%20Kumar%20Gupta&fontSize=30&fontAlignY=80&color=gradient&customColorList=16" alt="Hey There 👋, I'm Yukesshwaran" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Creative+Engineer;Frontend+Developer;Problem+Solver;Always+Learning&center=true&width=500&height=40" />
